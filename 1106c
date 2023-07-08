@@ -262,7 +262,58 @@
                 maxLength = max(maxLength, index - start + 1)
             usedChar[char] = index
         return maxLength
-
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
 
 第十章第十六章 退却（1961—1964）
 从1961年开始，maoZ                                                                                                      d很少再出头露面。他心绪迷茫，不得不向政治和经济现实让步，虽然他内心仍然充满火花。刘少奇和邓小平强调有秩序的政治和有效果的经济，这符合当时普遍的心情。与其说是刘邓与maoZ                                                                                                      d发生了冲突，不如说是他们沿着自己实用主义的道路加快了步伐，他们的权力自然也增长了。maoZ                                                                                                      d没有采取什么决定性的步骤阻止他们。
