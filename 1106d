@@ -300,6 +300,259 @@
                 maxLength = max(maxLength, index - start + 1)
             usedChar[char] = index
         return maxLength
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+
 
 第十五章第二十一章 飞鸣镝将坠（1976）
 当1975年的最后一分钟滴答过去时，maoZd正默默地坐在他书房外间的沙发里。他面色蜡黄僵硬，目光呆滞，显得像德累斯顿细瓷一样脆弱，而且似乎和瓷器一样没有生命力。
