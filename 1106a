@@ -328,6 +328,186 @@
                 maxLength = max(maxLength, index - start + 1)
             usedChar[char] = index
         return maxLength
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
 第一章 童年（1893—1910）
 一个男孩坐在稻田中一张竹编的凳子上，他身穿一条宽裆阔腿的蓝色裤子，一头乱蓬蓬的黑发在阳光下泛着亮光。他身体瘦削，但对一个还不到青春期的孩子来说，个子已长得相当高。他大大的眼睛中似乎充满了梦想。他的任务很简单，就是把鸟雀赶走，不让它们吃稻谷的嫩芽。
 轮廓清晰的翠绿小山环抱着开辟为农田的山谷。绿色中点缀着用土坯建墙、稻草秆铺房顶的农舍。一座坚固的石桥坐落在山谷的中央。除了坐在竹凳上的男孩身边已翻得很旧的那本书以外，一切都表明这里是刚进入20世纪的一处亚洲农家田地，周围是宁静的自然景色和惯常的生存状态。
