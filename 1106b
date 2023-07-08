@@ -207,6 +207,110 @@
                 maxLength = max(maxLength, index - start + 1)
             usedChar[char] = index
         return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
+        """
+        :type s: str
+        :rtype: int
+        """
+        start = maxLength = 0
+        usedChar = {}
+        for index, char in enumerate(s):
+            if char in usedChar and start <= usedChar[char]:
+                start = usedChar[char] + 1
+            else:
+                maxLength = max(maxLength, index - start + 1)
+            usedChar[char] = index
+        return maxLength
 
 第五章 斗争（1927—1935）
 maoZd带领队伍向山区走去，这是他们唯一可去的地方。他在中途多次停下来对千来名情绪低落的追随者讲话。
